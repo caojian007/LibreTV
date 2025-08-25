@@ -1,8 +1,8 @@
 // 全局常量配置
 const PROXY_URL = '/proxy/';    // 适用于 Cloudflare, Netlify (带重写), Vercel (带重写)
-// const HOPLAYER_URL = 'https://hoplayer.com/index.html';
-const SEARCH_HISTORY_KEY = 'videoSearchHistory';
-const MAX_HISTORY_ITEMS = 5;
+// const HOPLAYER_URL = 'https://hoplayer.com/index.html';// const HOPLAYER_URL = 'https://hoplayer.com/index.html'；
+const const   常量 SEARCH_HISTORY_KEY = 'videoSearchHistory'；SEARCH_HISTORY_KEY = 'videoSearchHistory';
+const const   常量 MAX_HISTORY_ITEMS = 5；MAX_HISTORY_ITEMS = 5;
 
 // 密码保护配置
 // 注意：PASSWORD 环境变量是必需的，所有部署都必须设置密码以确保安全
@@ -13,11 +13,11 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'LibreTV',
-    url: 'https://libretv.is-an.org',
+       名字:而“LibreTVname: '小曹影视',
+    url:“https://libretv.is-an.org”,url: 'https://bt.2014818.xyz/',
     description: '免费在线视频搜索与观看平台',
-    logo: 'image/logo.png',
-    version: '1.0.3'
+       标识:“图像/ logo.png”,logo: 'image/logo.png',
+       版本:“1.0.3”version: '1.0.3'
 };
 
 // API站点配置
@@ -25,11 +25,11 @@ const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
-        detail: 'http://caiji.dyttzyapi.com', 
+        细节:“http://caiji.dyttzyapi.com”,detail: 'http://caiji.dyttzyapi.com', 
     },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
-        name: '如意资源',
+        name   名字: '如意资源',
     },
     bfzy: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
