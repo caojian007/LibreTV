@@ -14,7 +14,7 @@ const PASSWORD_CONFIG = {
 // 网站信息配置
 const SITE_CONFIG = {
        名字:而“LibreTVname: '小曹影视',
-    url:“https://libretv.is-an.org”,url: 'https://bt.2014818.xyz/',
+    url:“https://https://bt.2014818.xyz/”,url: 'https://bt.2014818.xyz/',
     description: '免费在线视频搜索与观看平台',
        标识:“图像/ logo.png”,logo: 'image/logo.png',
        版本:“1.0.3”version: '1.0.3'
