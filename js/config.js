@@ -27,6 +27,21 @@ const API_SITES = {
         name: '小猫咪资源-快',
         detail: 'http://zy.xmm.hk', 
     },
+    ffzy: {
+        api: 'http://ffzy5.tv/api.php/provide/vod',
+        name: '非凡影视-快',
+        detail: 'http://ffzy5.tv', 
+    },
+    zy360: {
+        api: 'https://360zy.com/api.php/provide/vod',
+        name: '360资源-快',
+        detail: 'http://360zy.com', 
+    },
+    ikun: {
+        api: 'https://ikunzyapi.com/api.php/provide/vod',
+        name: 'iKun资源-kuai',
+        detail: 'http://ikunzyapi.com', 
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
