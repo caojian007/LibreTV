@@ -25,6 +25,7 @@ const API_SITES = {
     xiaomaomi: {
         api: 'https://zy.xmm.hk/api.php/provide/vod',
         name: '小猫咪资源-快',
+        detail: 'http://zy.xmm.hk', 
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
